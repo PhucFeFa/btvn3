@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720111958 source:d:\phuclam\bai 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
